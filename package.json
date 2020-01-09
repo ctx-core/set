@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^10.5.37"
+		"@ctx-core/function": "^10.5.38"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.4"
