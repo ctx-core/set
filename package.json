@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/set",
-	"version": "6.1.29",
+	"version": "6.1.30",
 	"description": "ctx-core set",
 	"main": "lib.js",
 	"module": "lib.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^10.5.42"
+		"@ctx-core/function": "^11.0.0"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
