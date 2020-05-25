@@ -2,7 +2,6 @@
 	"name": "@ctx-core/set",
 	"version": "6.1.38",
 	"description": "ctx-core set",
-	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
