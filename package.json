@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/set",
-	"version": "6.1.43",
+	"version": "6.1.44",
 	"description": "ctx-core set",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^13.0.10"
+		"@ctx-core/function": "^13.0.11"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.6"
