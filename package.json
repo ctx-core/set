@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/set",
-	"version": "6.1.52",
+	"version": "6.1.53",
 	"description": "ctx-core set",
 	"main": "./index.js",
 	"module": "./index.js",
