@@ -10,7 +10,7 @@
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
 		"prepublishOnly": "npm run compile",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -35,5 +35,5 @@
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "78319d1c68b22d1683e6355e54d93b088613eca4"
+	"gitHead": "46891891ab0fe98599ddfe9bad438582393bfdd6"
 }
