@@ -4,7 +4,7 @@ import { _union } from './_union'
  * Returns a new set with a _difference of the array-like arguments.
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}
  */
-export function _difference<I = unknown>(member_a1_nowrap_a1_nowrap: a1_nowrap_type<a1_nowrap_type<I>>) {
+export function _difference<I>(member_a1_nowrap_a1_nowrap: a1_nowrap_type<a1_nowrap_type<I>>) {
 	const member_a1_nowrap_a1 = _wrap_a1<a1_nowrap_type<I>>(member_a1_nowrap_a1_nowrap)
 	const [root_nowrap_a1, ...rest_nowrap_a1] = member_a1_nowrap_a1
 	const rest_set = _union<I>(rest_nowrap_a1)

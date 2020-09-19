@@ -1,5 +1,16 @@
 # @ctx-core/set
 
+## 8.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.0.0
+
 ## 7.0.1
 
 ### Patch Changes
