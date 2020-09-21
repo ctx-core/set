@@ -1,5 +1,14 @@
 # @ctx-core/set
 
+## 8.0.2
+
+### Patch Changes
+
+- stricter type checking of generics
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.1.0
+
 ## 8.0.1
 
 ### Patch Changes
