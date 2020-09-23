@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 8.0.3
+
+### Patch Changes
+
+- fix: \_union,\_difference: return type
+
 ## 8.0.2
 
 ### Patch Changes
