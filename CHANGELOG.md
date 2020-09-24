@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 8.0.4
+
+### Patch Changes
+
+- default generic types
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.1.1
+
 ## 8.0.3
 
 ### Patch Changes
