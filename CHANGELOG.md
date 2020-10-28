@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 8.0.5
+
+### Patch Changes
+
+- typescript: ^4.0.3 -> ^4.0.5
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.1.2
+
 ## 8.0.4
 
 ### Patch Changes
