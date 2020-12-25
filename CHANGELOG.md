@@ -1,5 +1,15 @@
 # @ctx-core/set
 
+## 8.0.12
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@16.4.0
+
 ## 8.0.11
 
 ### Patch Changes
