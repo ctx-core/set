@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 9.0.1
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.0.1
+
 ## 9.0.0
 
 ### Major Changes
