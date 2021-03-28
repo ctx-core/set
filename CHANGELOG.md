@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 9.0.13
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.4.2
+
 ## 9.0.12
 
 ### Patch Changes
