@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 9.0.14
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.4.3
+
 ## 9.0.13
 
 ### Patch Changes
