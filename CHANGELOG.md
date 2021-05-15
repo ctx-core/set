@@ -1,5 +1,16 @@
 # @ctx-core/set
 
+## 9.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.9.0
+
 ## 9.0.31
 
 ### Patch Changes
