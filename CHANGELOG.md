@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 9.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.9.2
+
 ## 9.1.1
 
 ### Patch Changes
