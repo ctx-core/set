@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 10.0.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/function@18.1.2
+
 ## 10.0.3
 
 ### Patch Changes
