@@ -1,5 +1,16 @@
 # @ctx-core/set
 
+## 11.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.0.0
+
 ## 10.0.5
 
 ### Patch Changes
