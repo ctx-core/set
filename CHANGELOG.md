@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 11.0.11
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.10
+
 ## 11.0.10
 
 ### Patch Changes
