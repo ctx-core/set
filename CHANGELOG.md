@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 11.0.12
+
+### Patch Changes
+
+- explicit return types
+
 ## 11.0.11
 
 ### Patch Changes

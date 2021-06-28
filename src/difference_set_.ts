@@ -7,7 +7,7 @@ import type { set_member_T } from './set_member_T'
  */
 export function difference_set_<I extends unknown = unknown>(
 	member_a_nowrap_a_nowrap:I
-) {
+):Set<I> {
 	const member_a_nowrap_a = wrap_a_<I>(member_a_nowrap_a_nowrap)
 	const root_a_nowrap = member_a_nowrap_a[0] as wrap_a_T<I>
 	const rest_a_nowrap_a = member_a_nowrap_a.slice(1) as wrap_a_T<I>

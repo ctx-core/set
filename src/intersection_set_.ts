@@ -5,7 +5,7 @@ import { wrap_a_, a_item_T, a_nowrap_T } from '@ctx-core/function'
  */
 export function intersection_set_<I extends unknown = unknown>(
 	member_a_nowrap_a_nowrap:a_nowrap_T<I>
-) {
+):Set<I> {
 	const member_a_nowrap_a = wrap_a_<I>(member_a_nowrap_a_nowrap)
 	const root_a_nowrap = member_a_nowrap_a[0] as I extends unknown[] ? a_item_T<I> : I
 	const rest_a_nowrap_a = member_a_nowrap_a.slice(1) as I extends unknown[] ? I : []
