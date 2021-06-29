@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/set",
-	"version": "11.0.12",
+	"version": "11.0.13",
 	"description": "ctx-core set",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^19.1.10"
+		"@ctx-core/function": "workspace:^19.1.11"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
