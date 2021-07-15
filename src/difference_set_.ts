@@ -1,6 +1,6 @@
 import { wrap_a_, wrap_a_T } from '@ctx-core/function'
-import { union_set_ } from './union_set_'
-import type { set_member_T } from './set_member_T'
+import { union_set_ } from './union_set_.js'
+import type { set_member_T } from './set_member_T.js'
 /**
  * Returns a new set with a _difference of the array-like arguments.
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}
