@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.8
+
 ## 12.0.6
 
 ### Patch Changes
