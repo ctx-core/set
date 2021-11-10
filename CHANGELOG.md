@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.21
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/function@20.2.3
+
 ## 12.0.20
 
 ### Patch Changes
