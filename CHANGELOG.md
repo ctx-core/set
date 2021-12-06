@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.0.30
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 12.0.29
 
 ### Patch Changes
