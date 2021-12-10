@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.0.31
+
+### Patch Changes
+
+- package.json: - module
+
 ## 12.0.30
 
 ### Patch Changes
