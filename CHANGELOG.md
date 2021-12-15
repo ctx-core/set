@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.34
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/function@20.2.15
+
 ## 12.0.33
 
 ### Patch Changes
