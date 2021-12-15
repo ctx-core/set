@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.35
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/function@20.2.16
+
 ## 12.0.34
 
 ### Patch Changes
