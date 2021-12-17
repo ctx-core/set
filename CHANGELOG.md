@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.37
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/function@20.2.18
+
 ## 12.0.36
 
 ### Patch Changes
