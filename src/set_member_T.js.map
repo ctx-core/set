@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/set_member_T.ts"],"sourcesContent":["export type set_member_T<I extends Set<unknown>> = I extends Set<infer O> ? O : never\nexport type set_member_type<I extends Set<unknown>> = set_member_T<I>\n"],"names":[],"mappings":"AAAA,MAAM"}
