@@ -17,4 +17,3 @@ import { union_set_ } from './union_set_.js'
 	return new Set(set_member_a)
 }
 export { difference_set_ as _difference, difference_set_ as set_difference_, difference_set_ as _difference__set, }
-//# sourceMappingURL=difference_set_.js.map

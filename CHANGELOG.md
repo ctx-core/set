@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.40
+
+### Patch Changes
+
+- fix: remove incorrect sourcemap annotation
+- Updated dependencies
+  - @ctx-core/function@20.2.22
+
 ## 12.0.39
 
 ### Patch Changes

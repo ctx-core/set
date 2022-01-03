@@ -12,4 +12,3 @@ import { wrap_a_ } from '@ctx-core/function'
 	return new Set(set_member_a)
 }
 export { union_set_ as _union, union_set_ as set_union_fn, union_set_ as _union__set, }
-//# sourceMappingURL=union_set_.js.map
