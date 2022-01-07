@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/set",
-	"version": "12.0.41",
+	"version": "12.0.42",
 	"description": "ctx-core set",
 	"keywords": [
 		"ctx-core",
@@ -35,14 +35,14 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^20.2.23"
+		"@ctx-core/function": "workspace:^20.2.24"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
 		"check-dts": "^0.6.6",
 		"tsm": "^2.2.1",
 		"typescript": "next",
-		"uvu": "^0.5.2"
+		"uvu": "^0.5.3"
 	},
 	"publishConfig": {
 		"access": "public",
