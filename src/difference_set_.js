@@ -3,7 +3,8 @@ import { union_set_ } from './union_set_.js'
 /**
  * Returns a new set with a _difference of the array-like arguments.
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}
- */ export function difference_set_(member_a_nowrap_a_nowrap) {
+ */
+export function difference_set_(member_a_nowrap_a_nowrap) {
 	const member_a_nowrap_a = wrap_a_(member_a_nowrap_a_nowrap)
 	const root_a_nowrap = member_a_nowrap_a[0]
 	const rest_a_nowrap_a = member_a_nowrap_a.slice(1)

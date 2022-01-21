@@ -2,7 +2,8 @@ import { wrap_a_ } from '@ctx-core/function'
 /**
  * Returns a `set` with the _intersection of the members
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}
- */ export function intersection_set_(member_a_nowrap_a_nowrap) {
+ */
+export function intersection_set_(member_a_nowrap_a_nowrap) {
 	const member_a_nowrap_a = wrap_a_(member_a_nowrap_a_nowrap)
 	const root_a_nowrap = member_a_nowrap_a[0]
 	const rest_a_nowrap_a = member_a_nowrap_a.slice(1)
