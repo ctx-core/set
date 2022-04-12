@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.46
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/function@20.6.1
+
 ## 12.0.45
 
 ### Patch Changes
