@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.0.48
+
+### Patch Changes
+
+- update dependencies
+
 ## 12.0.47
 
 ### Patch Changes
