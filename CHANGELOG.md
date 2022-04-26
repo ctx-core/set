@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.0.50
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/function@20.7.2
+
 ## 12.0.49
 
 ### Patch Changes
