@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.0.52
+
+### Patch Changes
+
+- fix: difference*set*,intersection*set*,union*set*: argument type: Set<I>
+
 ## 12.0.51
 
 ### Patch Changes
