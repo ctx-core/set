@@ -1,4 +1,4 @@
-import { a_nowrap_T } from '@ctx-core/function'
+import type { a_nowrap_T } from '@ctx-core/function'
 /**
  * Returns a `set` with the _intersection of the members
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}

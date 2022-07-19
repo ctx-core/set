@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.1.0
+
+### Minor Changes
+
+- extract directories
+
 ## 12.0.52
 
 ### Patch Changes

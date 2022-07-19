@@ -1,5 +1,5 @@
 import { wrap_a_ } from '@ctx-core/function'
-import { union_set_ } from './union_set_.js'
+import { union_set_ } from '../union_set_/index.js'
 /**
  * Returns a new set with a _difference of the array-like arguments.
  * @see {@link http://www.2ality.com/2015/01/es6-set-operations.html}
