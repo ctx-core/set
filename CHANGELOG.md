@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.1.6
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/function@21.0.1
+
 ## 12.1.5
 
 ### Patch Changes
