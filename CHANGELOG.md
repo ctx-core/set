@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.1.9
+
+### Patch Changes
+
+- tsconfig.json: skipLibCheck: true
+
 ## 12.1.8
 
 ### Patch Changes
