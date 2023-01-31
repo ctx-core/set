@@ -1,5 +1,13 @@
 # @ctx-core/set
 
+## 12.1.8
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/function@21.6.1
+
 ## 12.1.7
 
 ### Patch Changes
