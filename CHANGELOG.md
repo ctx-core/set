@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.1.10
+
+### Patch Changes
+
+- union*set*: argument: member_a_nowrap_a_nowrap:Set<I>|wrap_aa_T<I>
+
 ## 12.1.9
 
 ### Patch Changes

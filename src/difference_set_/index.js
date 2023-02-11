@@ -17,4 +17,8 @@ export function difference_set_(member_a_nowrap_a_nowrap) {
 	}
 	return new Set(set_member_a)
 }
-export { difference_set_ as _difference, difference_set_ as set_difference_, difference_set_ as _difference__set, }
+export {
+	difference_set_ as _difference,
+	difference_set_ as set_difference_,
+	difference_set_ as _difference__set,
+}

@@ -12,4 +12,8 @@ export function union_set_(member_a_nowrap_a_nowrap) {
 	}
 	return new Set(set_member_a)
 }
-export { union_set_ as _union, union_set_ as set_union_fn, union_set_ as _union__set, }
+export {
+	union_set_ as _union,
+	union_set_ as set_union_fn,
+	union_set_ as _union__set,
+}
