@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.1.11
+
+### Patch Changes
+
+- @ctx-core/function: ^21.6.1 -> ^21.7.0
+
 ## 12.1.10
 
 ### Patch Changes
