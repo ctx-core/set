@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.2.88
+
+### Patch Changes
+
+- ctx-core: ^5.18.7 -> ^5.18.8
+
 ## 12.2.87
 
 ### Patch Changes
