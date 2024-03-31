@@ -1,5 +1,11 @@
 # @ctx-core/set
 
+## 12.2.160
+
+### Patch Changes
+
+- ctx-core: ^6.7.1 -> ^6.8.0
+
 ## 12.2.159
 
 ### Patch Changes
